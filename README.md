@@ -17,7 +17,7 @@ Bem-vindo à página fã da série **Stranger Things**! 🕵️‍♂️🕵️�
 
 ## 🗂️ Estrutura do Projeto
 
-[Figma - Mundo Invertido] (https://www.figma.com/design/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0-1&node-type=canvas&t=e5qlOq4lGtOPh7wz-0)
+👉 [Figma - Multiverso Spider-Man](https://www.figma.com/design/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0-1&node-type=canvas&t=RASDfGyGrAHcDBxT-0)
 
 ## 🚧 Como Usar
 
