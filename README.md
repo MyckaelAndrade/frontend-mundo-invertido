@@ -17,13 +17,13 @@ Bem-vindo à página fã da série **Stranger Things**! 🕵️‍♂️🕵️�
 
 ## 🗂️ Estrutura do Projeto
 
-https://www.figma.com/design/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0-1&node-type=canvas&t=e5qlOq4lGtOPh7wz-0
+[Figma - Mundo Invertido] (https://www.figma.com/design/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0-1&node-type=canvas&t=e5qlOq4lGtOPh7wz-0)
 
 ## 🚧 Como Usar
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seuusuario/stranger-things-fan-page.git
+   git clone https://github.com/MyckaelAndrade/inverted-world.git
 
 ## 📸 Exemplos de Uso
 Clique no botão de alternância para mudar entre os modos claro e escuro.
